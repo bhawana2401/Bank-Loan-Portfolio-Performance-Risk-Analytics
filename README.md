@@ -5,4 +5,6 @@ Classified loans into performing and charged-off segments, calculating Good Loan
 
 Generated multi-dimensional analysis to uncover repayment trends and credit risk concentration
 
+Output:[Output.pdf](https://github.com/user-attachments/files/25609380/Output.pdf)
+
 Data Set : https://www.kaggle.com/datasets/wordsforthewise/lending-club 
